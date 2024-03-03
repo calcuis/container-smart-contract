@@ -1,4 +1,4 @@
-This smart contract is written in Solidity and deployed on the Ethereum blockchain. Let's break down its functionalities:
+This smart contract is written in Solidity. Let's break down its functionalities:
 
 Inheritance: The contract Container inherits from the ERC721 standard contract. ERC721 is a standard interface for non-fungible tokens, commonly used for representing ownership of unique digital or physical items.
 
