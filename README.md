@@ -1,7 +1,7 @@
 This smart contract is written in Solidity.
 
 State Variables:
-- `_owner`: Stores the address of the owner of the contract.
+- `owner`: Stores the address of the owner of the contract.
 - `admin`: Stores the address of the administrator.
 - `maxSupply`: Tracks the maximum number of pigs that can be created.
 - `totalSupply`: Tracks the total number of pigs that have been minted.
