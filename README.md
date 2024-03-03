@@ -23,7 +23,7 @@ Functions:
 - `redeem`: Allows the owner to withdraw funds from the contract.
 - `closeShop`: Allows the owner to close or reopen the shop.
 - `list`: Allows the administrator to list a new pig for sale.
-- `editPig`: Allows the administrator to edit the details of a pig before it's purchased.
+- `editPig`: Allows the administrator to edit the details of a pig before it's owned by someone else.
 - `getBalance`: Returns the balance of the contract.
 - `getPig`: Returns information about a specific pig.
 - `modifyPig`: Allows the owner of a pig to modify its details.
