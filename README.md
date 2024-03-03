@@ -29,4 +29,3 @@ Functions:
 - `modifyPig`: Allows the owner of a pig to modify its details.
 - `mint`: Allows users to mint a pig by paying its cost.
 - `tokenURI`: Overrides the tokenURI function from ERC721 to generate metadata (JSON) for a pig, including its name and image.
-- `Token URI`: The tokenURI function generates metadata for a pig in Base64-encoded JSON format. This metadata includes the pig's name and image.
