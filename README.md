@@ -1,6 +1,4 @@
-This smart contract is written in Solidity. Let's break down its functionalities:
-
-Inheritance: The contract Container inherits from the ERC721 standard contract. ERC721 is a standard interface for non-fungible tokens, commonly used for representing ownership of unique digital or physical items.
+This smart contract is written in Solidity.
 
 State Variables:
 - `_owner`: Stores the address of the owner of the contract.
