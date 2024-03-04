@@ -30,4 +30,4 @@ Functions:
 - `mint`: Allows users to mint a pig by paying its cost.
 - `tokenURI`: Overrides the tokenURI function from ERC721 to generate metadata (JSON) for a pig, including its name and image.
 
-*this contract (backend) and the frontend code are for education/demonstration purposes; learn it with testnet(s) is highly recommended.
+*this contract (backend) and the frontend code are for education/demonstration purpose(s); learn it with testnet(s) is highly recommended.
