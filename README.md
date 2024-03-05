@@ -6,10 +6,10 @@ State Variables:
 - `maxSupply`: Tracks the maximum number of pigs that can be created.
 - `totalSupply`: Tracks the total number of pigs that have been minted.
 - `isClosed`: Indicates whether the shop is closed or not.
-- `pigs`: A mapping that stores info about each pig, identified by a unique ID.
+- `pigs`: A mapping that stores info about each pig, identified by a unique id.
 
 Struct:
-- `Pig`: Defines the structure of a pig, containing fields such as ID, name, cost, image, and ownership status.
+- `Pig`: Defines the structure of a pig, containing fields such as id, name, cost, image, and ownership status.
 
 Modifiers:
 - `ownerOnly`: Restricts access to functions to only the contract owner.
