@@ -14,7 +14,7 @@ Struct:
 Modifiers:
 - `ownerOnly`: Restricts access to functions to only the contract owner.
 - `adminOnly`: Restricts access to functions to only the administrator.
-- `Constructor`: Sets the owner of the contract to the deployer's address.
+- `Constructor`: Sets the owner of the contract to the deployer's address (once only).
 
 Functions:
 - `changeOwner`: Allows the current owner to transfer ownership to a new address.
